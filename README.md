@@ -1,2 +1,2 @@
 # Development_of_ML_service
-Пробую завернуть сервис через Streamlit
+Сделаю EDA датасета и заверну сервис через Streamlit
